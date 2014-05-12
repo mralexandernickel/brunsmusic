@@ -6066,6 +6066,6 @@ body {
 .flyer img {
   width: 100%;
 }
-.soundcloud {
-  display: none;
+.soundcloud .row {
+  margin-top: 20px;
 }
